@@ -1,0 +1,14 @@
+{
+  "name": "mascotitas",
+  "version": "1.0.0",
+  "description": "Nues\u001b[D\u001b[D\u001b[D\u001b[D\"n\u001b[CNuestro primer proyecto\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pmorelius",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
